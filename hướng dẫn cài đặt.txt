@@ -1,0 +1,10 @@
+- Vào localhost:8080/phpmyadmin, sau đó tạo 1 cơ sở dữ liệu tên là blogmvc
+- Import file blogmvc.sql vào cơ sở dữ liệu blogmvc
+
+- Để chỉnh sửa cấu hình database => admin/Database/database.php
+
+- localhost:8080/blogMVC => trang chủ
+
+- localhost:8080/blogMVC/admin/login => trang đăng nhập
+					tài khoản: admin
+					mật khẩu: admin

@@ -1,0 +1,26 @@
+header #date_hotline #datetime {
+   padding: 4px 12px;
+   border-radius: 21px;
+}
+
+header #date_hotline #hotline {
+   padding: 4px 12px;
+   border-radius: 21px;
+   margin-left: 5px;
+}
+
+header #news ul li {
+   list-style: none;
+   display: inline-block;
+}
+
+header #news ul li a {
+   text-decoration: none;
+   color: black;
+   padding: 0px 10px;
+}
+
+header #news ul li:hover a,
+header #news ul li:hover i {
+   text-decoration: underline;
+}

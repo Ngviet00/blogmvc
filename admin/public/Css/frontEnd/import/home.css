@@ -1,0 +1,134 @@
+#wp_content{
+   padding-top: 10px;
+   width:720px;
+}
+#wp_content #image div a{
+   display: block;
+   color: black;
+   text-decoration: none;
+   font-weight: bold;
+   font-size: 24px;
+   margin-top: 10px;
+   margin-bottom: 5px;
+}
+#wp_content #image div span{
+   color: #746d6d;
+   font-size: 14px;
+}
+
+#wp_content #list_post_main ul img{
+   width: 18em;
+   border-radius: 8px;
+}
+#wp_content #list_post_main ul li{
+   margin-bottom: 1.5em;
+}
+#wp_content #list_post_main ul li h3 a{
+   font-size: 15px;
+   color: black;
+   text-decoration: none;
+   margin-top: 5px;
+   display: block;
+}
+
+#wp_content #list_post #post{
+   margin-bottom: 2.5em;
+}
+
+#wp_content #list_post #post #image_post img{
+   width: 17em;
+}
+#wp_content #list_post #post #title_post{
+   padding-left: 20px;
+   height: 165px;
+}
+
+#wp_content #list_post #post #title_post h3{
+   font-size: 24px;
+   margin: 0;
+}
+#wp_content #list_post #post #title_post h3 a{
+   color: black;
+   text-decoration: none;
+}
+#wp_content #list_post #post #title_post h3 a:hover{
+   text-decoration: underline;
+}
+#wp_content #list_post #post #title_post span{
+   font-size:13px;
+   color: grey;
+   font-style: italic;
+}
+#wp_content #list_post #post #title_post p{
+   font-size: 14px;
+    margin-top: 11px;
+}
+#wp_content #covid_19{
+   margin: 3em 0px;
+}
+#wp_content #covid_19 tbody tr{
+   border-style: none !important;
+}
+#wp_content #covid_19 tbody, td, tfoot, th, thead, tr {
+   border-color: inherit;
+   border-style: none !important;
+   border-width: 0;
+}
+#wp_content #covid_19 th,td{
+   font-weight: normal !important;
+   color: #b43535;
+}
+#wp_content #covid_19 thead th{
+   color: black;
+   font-weight: bolder;
+}
+#wp_content #statistical_covid{
+border:1px solid #dee2e6;
+border-radius: 5px;
+}
+#wp_content #statistical_covid #vietnam #vnam{
+   color: white;
+    background: #c9302c;
+    padding: 7px;
+    font-size: 13px;
+    border-radius: 4px;
+    position: relative;
+    top: -14px;
+    left: -20px;
+    font-weight: bold;
+}
+#wp_content #statistical_covid #vietnam #world{
+   color: white;
+   font-weight: bold;
+   background: #3071a9;
+   padding: 7px;
+   font-size: 13px;
+   border-radius: 4px;
+   position: relative;
+   top: -14px;
+   left: -20px;
+}
+#wp_content #statistical_covid #vietnam #wrap_content{
+   text-align: center;
+   display: block;
+}
+
+#wp_content #statistical_covid #vietnam #number_of_cases{
+   color: #c9302c;
+   font-weight: bold;
+}
+
+#wp_content #statistical_covid #vietnam #being_treated{
+   color: #ff9c00;
+   font-weight: bold;
+}
+
+#wp_content #statistical_covid #vietnam #recuperate{
+   color: #28a745;
+   font-weight: bold;
+}
+
+#wp_content #statistical_covid #vietnam #dead{
+   color: #666666;
+   font-weight: bold;
+}

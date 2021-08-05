@@ -1,0 +1,13 @@
+#navbar #menu ul li {
+   display: inline-block;
+}
+
+#navbar #menu ul li a {
+   text-decoration: none;
+   padding: 0px 10px;
+   color: white;
+}
+
+#navbar #form_search input[type=text] {
+   margin-right: 10px;
+}

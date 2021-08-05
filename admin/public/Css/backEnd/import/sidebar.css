@@ -1,0 +1,15 @@
+#sidebar-wrapper{
+  width: 250px;
+  height: 86vh;
+}
+#sidebar-wrapper ul li a{
+  padding: 15px;
+  color: white;
+  width: 100%;
+  display: block;
+}
+#sidebar-wrapper ul li a:hover{
+  text-decoration: none;
+  background-color: #8080809e;
+  color: white !important;
+}

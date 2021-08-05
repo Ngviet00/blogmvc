@@ -1,0 +1,12 @@
+#wrapper #content_main_category{
+   width: 1300px;
+}
+#wrapper #content_main_category #list_category{
+   font-weight: bold;
+   font-size: 30px;
+}
+
+#wrapper #content_main_category a.disabled {
+   pointer-events: none;
+   cursor: default;
+}

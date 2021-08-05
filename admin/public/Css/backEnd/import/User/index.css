@@ -1,0 +1,92 @@
+#wp_user_index{
+   height: 86vh;
+   display: flex;
+}
+#wp_user_index #content{
+   width: 1300px;
+   background-color: #384553;
+   display: blue;
+}
+#wp_user_index #content #hello{
+	  height: 6em;
+    background-color: #757b97;
+    padding: 15px;
+    border-radius: 15px;
+    width: 70em;
+    margin-top: 45px;
+    margin-left: 40px;
+}
+#wp_user_index #content #hello h1{
+	font-size: 30px;
+  color: white;
+}
+#wp_user_index #content #hello p{
+    margin-top: 12px;
+    color: white;
+    margin-bottom: 10px;
+}
+#wp_user_index #content #hello p span{
+  color: black;
+  font-weight: bold;
+}
+#wp_user_index #statistical{
+	display: flex;
+}
+#wp_user_index #statistical .item{
+	padding: 15px;
+	margin-right: 30px;
+	color: white;
+    width: 300px;
+    display: flex;
+    background-color: #9823be;
+    margin-top: 3em;
+    margin-left: 2.5em;
+    border-radius: 12px;
+}
+
+#wp_user_index #statistical #item2{
+  background-color: #e9a259; 
+}
+
+#wp_user_index #statistical #item3{
+  background-color: #64be99; 
+}
+#wp_user_index #statistical .item .icon .fa{
+	font-size: 30px;
+	padding-top: 9px;
+}
+#wp_user_index #statistical .item #number{
+	margin-left: 20px;
+}
+#wp_user_index #statistical .item #number h1{
+	font-size: 35px;
+}
+
+#wp_user_index #member{
+	display: flex;
+	flex-wrap: nowrap;
+}
+#wp_user_index #member .item{
+  padding: 15px;
+  border-radius: 12px;
+  color: white;
+  width: 540px;
+  display: flex;
+  background-color: rgba(0,0,0,0.14);
+  margin-top: 3em;
+  margin-left: 2.5em;
+}
+#wp_user_index #member .item .icon img{
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+}
+#wp_user_index #member .item #number{
+	margin-left: 20px;
+}
+#wp_user_index #member .item #number h1{
+	font-size: 35px;
+}
+#wp_user_index #member .item #number p{
+  padding: 15px 0px;
+}
